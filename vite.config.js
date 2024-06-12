@@ -35,7 +35,7 @@ export default defineConfig({
       manifest: {
         name: "Snavigation",
         short_name: "Snavigation",
-        description: "一个极致简约的导航页",
+        description: "勝意的导航页",
         display: "standalone",
         start_url: "/",
         theme_color: "#fff",
